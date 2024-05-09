@@ -1,0 +1,15 @@
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Application.deps.json
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Application.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Application.pdb
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Domain.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Domain.pdb
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.csproj.AssemblyReference.cache
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.AssemblyInfoInputs.cache
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.AssemblyInfo.cs
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.csproj.CoreCompileInputs.cache
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desa.516CB0B0.Up2Date
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\refint\VMS.Desafio.Telemedicina.Application.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.pdb
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\ref\VMS.Desafio.Telemedicina.Application.dll

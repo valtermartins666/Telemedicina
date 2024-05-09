@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VMS.Desafio.Telemedicina.Application/1.0.0": {
+        "dependencies": {
+          "VMS.Desafio.Telemedicina.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VMS.Desafio.Telemedicina.Application.dll": {}
+        }
+      },
+      "VMS.Desafio.Telemedicina.Domain/1.0.0": {
+        "runtime": {
+          "VMS.Desafio.Telemedicina.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VMS.Desafio.Telemedicina.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VMS.Desafio.Telemedicina.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

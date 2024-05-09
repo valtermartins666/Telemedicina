@@ -1,0 +1,6 @@
+@VMS.Desafio.Telemedicina_HostAddress = http://localhost:5025
+
+GET {{VMS.Desafio.Telemedicina_HostAddress}}/registration/
+Accept: application/json
+
+###
