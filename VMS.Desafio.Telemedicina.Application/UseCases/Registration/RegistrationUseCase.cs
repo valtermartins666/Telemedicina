@@ -43,7 +43,9 @@ namespace VMS.Desafio.Telemedicina.Application.UseCases.Registration
                     return output;
                 }
 
-                //var createRegistration = input.MapToCreatedRegistration();
+                var createRegistration = input.MapToRegistration(input);
+
+                await _registration.AddAsync(createRegistration);
 
                 output.AddMessage("Success");
                 return output;

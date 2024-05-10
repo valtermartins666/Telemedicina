@@ -22,3 +22,6 @@ C:\Users\valte\source\repos\Telemedicina\v2\Telemedicina\VMS.Desafio.Telemedicin
 C:\Users\valte\source\repos\Telemedicina\v2\Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\refint\VMS.Desafio.Telemedicina.Domain.dll
 C:\Users\valte\source\repos\Telemedicina\v2\Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Domain.pdb
 C:\Users\valte\source\repos\Telemedicina\v2\Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\ref\VMS.Desafio.Telemedicina.Domain.dll
+C:\Users\valte\source\repos\Telemedicina\v2\Telemedicina\VMS.Desafio.Telemedicina.Domain\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Domain.runtimeconfig.json
+C:\Users\valte\source\repos\Telemedicina\v2\Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Domain.csproj.AssemblyReference.cache
+C:\Users\valte\source\repos\Telemedicina\v2\Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Domain.genruntimeconfig.cache

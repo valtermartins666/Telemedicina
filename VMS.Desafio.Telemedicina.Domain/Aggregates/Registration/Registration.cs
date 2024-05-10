@@ -22,21 +22,20 @@ namespace VMS.Desafio.Telemedicina.Domain.Aggregates.Registration
         [DataType(DataType.DateTime)]
         public DateTime CreateAt { get; set; }
 
-        public RegistrationType RegisterType { get; set; }        
+        public RegistrationType RegisterType { get; set; }
+        public bool Enabled { get; set; } = true;
 
 
-        public Registration(Guid registrationId, 
-            string name, 
+        public Registration(
+            string name,
             string email,            
-            RegistrationType type,
             DateTime createAt
             )
-        {
-            Id = registrationId;
-            Name= name;
-            Email = email;
-            RegisterType = type;
+        {            
+            Name = name;
+            Email = email;            
             CreateAt = createAt;
+            Enabled = true;
         }
     }
 }
