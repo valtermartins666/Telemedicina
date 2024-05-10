@@ -20,7 +20,7 @@ namespace VMS.Desafio.Telemedicina.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> GetAll_PersonAsync([FromServices] IDoctorRepository doctorRepository)
+        public async Task<IActionResult> GetAll_RegistrationAsync([FromServices] IDoctorRepository doctorRepository)
         {
             _logger.LogDebug("[PERSON] - Starting getting person data");
 
@@ -36,7 +36,7 @@ namespace VMS.Desafio.Telemedicina.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> GetPersonByIdAsync([FromRoute][Required] Guid id, [FromServices] IDoctorRepository repository, CancellationToken cancellationToken)
+        public async Task<IActionResult> GetRegistrationByIdAsync([FromRoute][Required] Guid id, [FromServices] IDoctorRepository repository, CancellationToken cancellationToken)
         {
             _logger.LogDebug("[PERSON] - Starting getting person data by Id");
             
@@ -52,7 +52,7 @@ namespace VMS.Desafio.Telemedicina.Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<IActionResult> PostPersonAsync([FromBody] Person person, CancellationToken cancellationToken)
+        public async Task<IActionResult> PostRegistrationAsync([FromBody] Person person, CancellationToken cancellationToken)
         {
             _logger.LogDebug("[PERSON] - Add person data");
             

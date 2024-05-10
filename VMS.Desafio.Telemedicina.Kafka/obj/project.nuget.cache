@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qwRvZzy6BpRSTV/P5jbIZbJeh8IxXUhLsSIBQggWA9gSZ1KqkuOYuz/IsosDFHpDwdz/3KxiokjHOF1lli/juw==",
+  "dgSpecHash": "KTBl/B6FHa5fYhhOO5e1RImnzN9wdfUf7ZE9SEsb+WhHpL+Wp4O1zorhpc8Ixz7yULiyTyhCsdJHJkmXUQB8nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
+  "projectFilePath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

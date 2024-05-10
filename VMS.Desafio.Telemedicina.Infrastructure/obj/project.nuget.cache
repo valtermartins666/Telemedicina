@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1p2+7bex/cnBj+B7orYO4HUN1G8zN17VaG5RM3Zi7EhThehbX7UT0yp719qcJZSKGQMy234dN8PXafl+OAoHUQ==",
+  "dgSpecHash": "VG6/663zfRVFbmx+rXxvhnxYaUosqL8bAOCFtnYzOqF39UV/RA+3NDsOZIfFQW5Ou1jRXung3MxckM9i293uhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valte\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

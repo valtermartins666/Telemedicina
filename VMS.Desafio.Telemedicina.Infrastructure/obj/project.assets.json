@@ -2770,11 +2770,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\valte\\source\\repos\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj",
       "projectName": "VMS.Desafio.Telemedicina.Infrastructure",
-      "projectPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\valte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\valte\\Source\\Repos\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\valte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2785,14 +2785,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/packages": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj": {
-              "projectPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj"
+            "C:\\Users\\valte\\source\\repos\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj": {
+              "projectPath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj"
             }
           }
         }
