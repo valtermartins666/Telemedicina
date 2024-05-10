@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jjblCxzbPEg1G/qxxuymdDD9DAYlwZzSl55lLJVKB8uAyO5G+XH9dltK48JHkp1+qFbXvRXC7GrQ+aYU4Wx6vg==",
+  "dgSpecHash": "Vy495if+4U3zNMH6IvNxqWnGZ0tf8wTYqivyu/zEi2+3syYFjMVZXX/2sc8LvCHjXd2Buo/lqfTEODv+0zRyQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj",
+  "projectFilePath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

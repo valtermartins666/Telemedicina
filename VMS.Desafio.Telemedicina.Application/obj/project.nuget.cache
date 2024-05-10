@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zuY3LO6s7/tE7qP4gxWWVC0UAaxhu8bFU4EMHtmoyYcYSajZjpF0Cm4xOvMMp8XjN9zCbruDrxxhllYYyC010g==",
+  "dgSpecHash": "HuG6hVlv66aUOawrv8FEqQtBPOGPZxqhS7c0dgqTaCXlIbcZzts59Trg3dcfW04+mDiEDnawnbe8jpnoMOHpgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj",
+  "projectFilePath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valte\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",

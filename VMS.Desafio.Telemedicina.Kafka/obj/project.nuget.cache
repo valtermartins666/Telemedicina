@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JXCGXZ2EnVmuCc9dlme4sYMwXU+ORJPMrPk6YzfjY/qMj5asV7s3sH0oeNfsZzQ3lOegZo7EU863JHZUhluYNA==",
+  "dgSpecHash": "gJ+EmWDIwZnyxDxRFEMJGimhwEK1JdI9lgEwggZdHRFZY3qKjglcAIW/FxIvYpAS7D+wjUs8p+Umnu9HTZoN/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
+  "projectFilePath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\valte\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\valte\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
