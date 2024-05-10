@@ -13,3 +13,4 @@ C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Ap
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\refint\VMS.Desafio.Telemedicina.Application.dll
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.pdb
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\ref\VMS.Desafio.Telemedicina.Application.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Application\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Application.sourcelink.json

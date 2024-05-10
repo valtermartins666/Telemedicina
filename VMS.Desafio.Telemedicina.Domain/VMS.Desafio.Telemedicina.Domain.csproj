@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Aggregates\Appointment\" />
     <Folder Include="Aggregates\Patient\Interface\" />
   </ItemGroup>
 

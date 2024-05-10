@@ -15,3 +15,4 @@ C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Ka
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Kafka\obj\Debug\net8.0\refint\VMS.Desafio.Telemedicina.Kafka.dll
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Kafka\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Kafka.pdb
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Kafka\obj\Debug\net8.0\ref\VMS.Desafio.Telemedicina.Kafka.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Kafka\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Kafka.sourcelink.json

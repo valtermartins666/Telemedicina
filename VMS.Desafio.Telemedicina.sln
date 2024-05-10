@@ -3,15 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMS.Desafio.Telemedicina", "VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.csproj", "{632D5238-DAFC-4F20-938B-7D0A87ACAC92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VMS.Desafio.Telemedicina", "VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.csproj", "{632D5238-DAFC-4F20-938B-7D0A87ACAC92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMS.Desafio.Telemedicina.Domain", "VMS.Desafio.Telemedicina.Domain\VMS.Desafio.Telemedicina.Domain.csproj", "{01B6ADA6-201D-4A18-8FCB-36FB300361E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VMS.Desafio.Telemedicina.Domain", "VMS.Desafio.Telemedicina.Domain\VMS.Desafio.Telemedicina.Domain.csproj", "{01B6ADA6-201D-4A18-8FCB-36FB300361E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMS.Desafio.Telemedicina.Infrastructure", "VMS.Desafio.Telemedicina.Infrastructure\VMS.Desafio.Telemedicina.Infrastructure.csproj", "{F609C0C6-019D-4F31-B45F-9CCF07E90E23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VMS.Desafio.Telemedicina.Infrastructure", "VMS.Desafio.Telemedicina.Infrastructure\VMS.Desafio.Telemedicina.Infrastructure.csproj", "{F609C0C6-019D-4F31-B45F-9CCF07E90E23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMS.Desafio.Telemedicina.Application", "VMS.Desafio.Telemedicina.Application\VMS.Desafio.Telemedicina.Application.csproj", "{E5BF4127-1F05-43C6-8B88-539218ABB147}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VMS.Desafio.Telemedicina.Application", "VMS.Desafio.Telemedicina.Application\VMS.Desafio.Telemedicina.Application.csproj", "{E5BF4127-1F05-43C6-8B88-539218ABB147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VMS.Desafio.Telemedicina.Kafka", "VMS.Desafio.Telemedicina.Kafka\VMS.Desafio.Telemedicina.Kafka.csproj", "{F1CDA192-4098-409F-808F-15894F418A23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VMS.Desafio.Telemedicina.Kafka", "VMS.Desafio.Telemedicina.Kafka\VMS.Desafio.Telemedicina.Kafka.csproj", "{F1CDA192-4098-409F-808F-15894F418A23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F9991CF9-E7A6-4719-9871-3095F2F87EAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{6F3168B5-3140-404A-810E-F822FCAA4442}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +46,13 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{632D5238-DAFC-4F20-938B-7D0A87ACAC92} = {F9991CF9-E7A6-4719-9871-3095F2F87EAA}
+		{01B6ADA6-201D-4A18-8FCB-36FB300361E0} = {F9991CF9-E7A6-4719-9871-3095F2F87EAA}
+		{F609C0C6-019D-4F31-B45F-9CCF07E90E23} = {F9991CF9-E7A6-4719-9871-3095F2F87EAA}
+		{E5BF4127-1F05-43C6-8B88-539218ABB147} = {F9991CF9-E7A6-4719-9871-3095F2F87EAA}
+		{F1CDA192-4098-409F-808F-15894F418A23} = {F9991CF9-E7A6-4719-9871-3095F2F87EAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AEAB1A6E-705B-4D9E-806E-371A1ED05C93}

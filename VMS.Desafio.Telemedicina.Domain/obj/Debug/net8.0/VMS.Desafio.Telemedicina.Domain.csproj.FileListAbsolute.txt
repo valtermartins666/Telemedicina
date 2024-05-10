@@ -9,3 +9,4 @@ C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Do
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\refint\VMS.Desafio.Telemedicina.Domain.dll
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Domain.pdb
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\ref\VMS.Desafio.Telemedicina.Domain.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Domain\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Domain.sourcelink.json

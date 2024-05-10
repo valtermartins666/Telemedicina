@@ -13,3 +13,8 @@ C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.In
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Infrastructure\obj\Debug\net8.0\refint\VMS.Desafio.Telemedicina.Infrastructure.dll
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Infrastructure\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Infrastructure.pdb
 C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Infrastructure\obj\Debug\net8.0\ref\VMS.Desafio.Telemedicina.Infrastructure.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Infrastructure\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Infrastructure.sourcelink.json
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Infrastructure\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Infrastructure.runtimeconfig.json
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Infrastructure\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Application.dll
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Infrastructure\bin\Debug\net8.0\VMS.Desafio.Telemedicina.Application.pdb
+C:\Users\valte\source\repos\VMS.Desafio.Telemedicina\VMS.Desafio.Telemedicina.Infrastructure\obj\Debug\net8.0\VMS.Desafio.Telemedicina.Infrastructure.genruntimeconfig.cache

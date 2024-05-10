@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "qwRvZzy6BpRSTV/P5jbIZbJeh8IxXUhLsSIBQggWA9gSZ1KqkuOYuz/IsosDFHpDwdz/3KxiokjHOF1lli/juw==",
+  "dgSpecHash": "JXCGXZ2EnVmuCc9dlme4sYMwXU+ORJPMrPk6YzfjY/qMj5asV7s3sH0oeNfsZzQ3lOegZo7EU863JHZUhluYNA==",
   "success": true,
   "projectFilePath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\valte\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\valte\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
