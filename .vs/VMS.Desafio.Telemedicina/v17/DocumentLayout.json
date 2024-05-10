@@ -1,146 +1,102 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\",
+  "WorkspaceRootPath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1CDA192-4098-409F-808F-15894F418A23}|VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.kafka\\vms.desafio.telemedicina.kafka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F1CDA192-4098-409F-808F-15894F418A23}|VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj|solutionrelative:vms.desafio.telemedicina.kafka\\vms.desafio.telemedicina.kafka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\registration\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\registration\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina\\vms.desafio.telemedicina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\vms.desafio.telemedicina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\contexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\contexts\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\mappings\\createregistrationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\mappings\\createregistrationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\registration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\registration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\usecases\\registration\\registrationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\registration\\registrationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\usecases\\registration\\registrationinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\registration\\registrationinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\enums\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\enums\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\repositories\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\repositories\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\registration\\iregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\registration\\iregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\registration\\iregistrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\usecases\\validators\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\validators\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\usecases\\registration\\registrationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\registration\\registrationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.application\\usecases\\registration\\registrationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\registration\\registrationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\usecases\\validators\\registrationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\validators\\registrationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.domain\\contexts\\getcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\contexts\\getcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\usecases\\registration\\iregistrationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\registration\\iregistrationusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.application\\usecases\\registration\\registrationinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\registration\\registrationinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\registration\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\registration\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\registration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\registration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\person\\interface\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\person\\interface\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\doctor\\doctorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\doctor\\doctorcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\doctor\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\doctor\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\doctor\\interface\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\doctor\\interface\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina\\vms.desafio.telemedicina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\vms.desafio.telemedicina.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\usecases\\doctor\\doctorusecasecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\doctor\\doctorusecasecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\registration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\registration\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\patient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\registration\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\registration\\registrationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CDA192-4098-409F-808F-15894F418A23}|VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.kafka\\vms.desafio.telemedicina.kafka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1CDA192-4098-409F-808F-15894F418A23}|VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj|solutionrelative:vms.desafio.telemedicina.kafka\\vms.desafio.telemedicina.kafka.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{632D5238-DAFC-4F20-938B-7D0A87ACAC92}|VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj|solutionrelative:vms.desafio.telemedicina\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.domain\\aggregates\\enums\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\aggregates\\enums\\registrationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\enum\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.infrastructure\\repositories\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\repositories\\registrationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.application\\usecases\\validators\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\validators\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.application\\usecases\\registration\\registrationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\registration\\registrationoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.application\\usecases\\validators\\registrationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\validators\\registrationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\person\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\patient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\patient\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01B6ADA6-201D-4A18-8FCB-36FB300361E0}|VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj|solutionrelative:vms.desafio.telemedicina.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\dto\\enum\\medicalspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\dto\\enum\\medicalspecialties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\usecases\\users\\usersusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\telemedicina\\v2\\telemedicina\\vms.desafio.telemedicina.application\\usecases\\users\\usersusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\usecases\\users\\usersusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1CDA192-4098-409F-808F-15894F418A23}|VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.kafka\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1CDA192-4098-409F-808F-15894F418A23}|VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj|solutionrelative:vms.desafio.telemedicina.kafka\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5BF4127-1F05-43C6-8B88-539218ABB147}|VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj|solutionrelative:vms.desafio.telemedicina.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|c:\\users\\valte\\source\\repos\\vms.desafio.telemedicina\\vms.desafio.telemedicina.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F609C0C6-019D-4F31-B45F-9CCF07E90E23}|VMS.Desafio.Telemedicina.Infrastructure\\VMS.Desafio.Telemedicina.Infrastructure.csproj|solutionrelative:vms.desafio.telemedicina.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,246 +106,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VMS.Desafio.Telemedicina.Kafka",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-10T14:32:28.602Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "VMS.Desafio.Telemedicina",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-10T14:32:06.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\Registration.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\Registration.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\Registration.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\Registration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T01:30:27.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "RegistrationUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationUseCase.cs",
               "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationUseCase.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationUseCase.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationUseCase.cs",
               "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationUseCase.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAMwDEAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAIAwwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T23:55:13.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Contexts\\DatabaseContext.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\Contexts\\DatabaseContext.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Contexts\\DatabaseContext.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\Contexts\\DatabaseContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAD4vxgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:10:13.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateRegistrationMapper.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Mappings\\CreateRegistrationMapper.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\Mappings\\CreateRegistrationMapper.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Mappings\\CreateRegistrationMapper.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\Mappings\\CreateRegistrationMapper.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T01:28:32.782Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\appsettings.Development.json",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T09:29:35.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\appsettings.json",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\appsettings.json",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\appsettings.json",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-10T09:29:30.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\Program.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\Program.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\Program.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T12:07:22.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RegistrationController.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\Controllers\\RegistrationController.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\Controllers\\RegistrationController.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\Controllers\\RegistrationController.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina\\Controllers\\RegistrationController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAD4vzgAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:22:47.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "RegistrationType.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Enums\\RegistrationType.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Enums\\RegistrationType.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Enums\\RegistrationType.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Enums\\RegistrationType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T01:34:41.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserType.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\UserType.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\UserType.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\UserType.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\UserType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:14:07.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "RegistrationInput.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationInput.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationInput.cs",
               "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationInput.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationInput.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationInput.cs",
               "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationInput.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAiAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwBMAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T23:57:18.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\Registration.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\Registration.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\Registration.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\Registration.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:30:27.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "IRegistrationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\IRegistrationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\IRegistrationRepository.cs",
               "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\IRegistrationRepository.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\IRegistrationRepository.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\IRegistrationRepository.cs",
               "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\IRegistrationRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBAAAAAlAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwBAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T23:33:20.21Z"
+              "WhenOpened": "2024-05-10T20:24:42.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OutPut.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\OutPut.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\OutPut.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\OutPut.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\OutPut.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAiwGMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T01:12:19.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RegistrationOutPut.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationOutPut.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationOutPut.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationOutPut.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationOutPut.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T23:56:07.365Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
               "Title": "RegistrationRepository.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\RegistrationRepository.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\RegistrationRepository.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\RegistrationRepository.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\RegistrationRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\RegistrationRepository.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\RegistrationRepository.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\RegistrationRepository.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Registration\\RegistrationRepository.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAMwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T23:53:41.458Z"
+              "WhenOpened": "2024-05-10T20:39:49.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RegistrationValidator.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\RegistrationValidator.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\RegistrationValidator.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\RegistrationValidator.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\RegistrationValidator.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAUwBYAAAAkAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\Program.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\Program.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\Program.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T00:03:21.404Z"
+              "WhenOpened": "2024-05-09T12:07:22.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IRegistrationUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\IRegistrationUseCase.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\IRegistrationUseCase.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\IRegistrationUseCase.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\IRegistrationUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "GetContext.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Contexts\\GetContext.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Contexts\\GetContext.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Contexts\\GetContext.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Contexts\\GetContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAwwBIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T00:10:47.347Z"
+              "WhenOpened": "2024-05-10T21:53:03.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 7,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina\\Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAEcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:22:47.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\Dockerfile",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\Dockerfile",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\Dockerfile",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T19:59:57.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "RegistrationRequest.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\RegistrationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\RegistrationRequest.cs",
               "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\RegistrationRequest.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\RegistrationRequest.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\RegistrationRequest.cs",
               "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\RegistrationRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -397,107 +235,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IPersonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Person\\Interface\\IPersonRepository.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Person\\Interface\\IPersonRepository.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Person\\Interface\\IPersonRepository.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Person\\Interface\\IPersonRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T23:32:49.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\DoctorRepository.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\DoctorRepository.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\DoctorRepository.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\DoctorRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:30:14.539Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Person\\Person.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Person\\Person.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Person\\Person.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Person\\Person.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T22:59:45.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DoctorCreate.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Doctor\\DoctorCreate.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Doctor\\DoctorCreate.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Doctor\\DoctorCreate.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Doctor\\DoctorCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:26:38.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 8,
               "Title": "AppointmentController.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\Controllers\\AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\Controllers\\AppointmentController.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\Controllers\\AppointmentController.cs",
               "RelativeToolTip": "VMS.Desafio.Telemedicina\\Controllers\\AppointmentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA/AAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwv0oAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T22:52:22.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Doctor\\Doctor.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Doctor\\Doctor.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Doctor\\Doctor.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Doctor\\Doctor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T22:01:31.099Z"
+              "DocumentIndex": 13,
+              "Title": "VMS.Desafio.Telemedicina.Kafka.csproj",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Kafka\\VMS.Desafio.Telemedicina.Kafka.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T14:32:28.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "IDoctorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Doctor\\Interface\\IDoctorRepository.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Doctor\\Interface\\IDoctorRepository.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Doctor\\Interface\\IDoctorRepository.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Doctor\\Interface\\IDoctorRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA0wA4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:25:32.381Z"
+              "DocumentIndex": 10,
+              "Title": "VMS.Desafio.Telemedicina.csproj",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T18:10:06.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DoctorUseCasecs.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Doctor\\DoctorUseCasecs.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Doctor\\DoctorUseCasecs.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Doctor\\DoctorUseCasecs.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Doctor\\DoctorUseCasecs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 11,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\Registration.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\Registration.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\Registration.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Registration\\Registration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:10:59.24Z"
+              "WhenOpened": "2024-05-10T19:42:22.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\appsettings.json",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina\\appsettings.json",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina\\appsettings.json",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T09:29:30.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationType.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Enums\\RegistrationType.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Enums\\RegistrationType.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Aggregates\\Enums\\RegistrationType.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Aggregates\\Enums\\RegistrationType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:34:41.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\UserType.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\UserType.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\UserType.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\UserType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T21:14:07.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OutPut.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\OutPut.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\OutPut.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\OutPut.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\OutPut.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAiwGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T01:12:19.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationOutPut.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationOutPut.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationOutPut.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationOutPut.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Registration\\RegistrationOutPut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:56:07.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\RegistrationRepository.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\RegistrationRepository.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\RegistrationRepository.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\Repositories\\RegistrationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T23:53:41.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\RegistrationValidator.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\RegistrationValidator.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\RegistrationValidator.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Validators\\RegistrationValidator.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T00:03:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Person\\Person.cs",
+              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Person\\Person.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Person\\Person.cs",
+              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Person\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T22:59:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Patient\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Patient\\Patient.cs",
               "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Patient\\Patient.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Patient\\Patient.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Patient\\Patient.cs",
               "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Patient\\Patient.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAmwAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -505,75 +391,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\Class1.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:01:59.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "MedicalSpecialties.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\MedicalSpecialties.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\MedicalSpecialties.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\MedicalSpecialties.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\DTO\\Enum\\MedicalSpecialties.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T21:13:33.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 23,
               "Title": "UsersUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Users\\UsersUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Users\\UsersUseCase.cs",
               "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\UseCases\\Users\\UsersUseCase.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Users\\UsersUseCase.cs",
+              "ToolTip": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\UseCases\\Users\\UsersUseCase.cs",
               "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\UseCases\\Users\\UsersUseCase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T21:11:17.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\Class1.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Kafka\\Class1.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Kafka\\Class1.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Kafka\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:14:58.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\Class1.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:04:21.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "VMS.Desafio.Telemedicina.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "VMS.Desafio.Telemedicina.Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T01:02:59.966Z"
             }
           ]
         }

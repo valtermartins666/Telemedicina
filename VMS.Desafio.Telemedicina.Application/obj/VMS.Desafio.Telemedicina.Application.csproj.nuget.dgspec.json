@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj": {}
+    "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj": {
+    "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj",
+        "projectUniqueName": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj",
         "projectName": "VMS.Desafio.Telemedicina.Application",
-        "projectPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj",
+        "projectPath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\VMS.Desafio.Telemedicina.Application.csproj",
         "packagesPath": "C:\\Users\\valte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Application\\obj\\",
+        "outputPath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/packages": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj": {
-                "projectPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj"
+              "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj": {
+                "projectPath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj"
               }
             }
           }
@@ -87,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj": {
+    "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj",
         "projectName": "VMS.Desafio.Telemedicina.Domain",
-        "projectPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj",
+        "projectPath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\VMS.Desafio.Telemedicina.Domain.csproj",
         "packagesPath": "C:\\Users\\valte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valte\\source\\repos\\VMS.Desafio.Telemedicina\\VMS.Desafio.Telemedicina.Domain\\obj\\",
+        "outputPath": "C:\\Users\\valte\\source\\repos\\Telemedicina\\v2\\Telemedicina\\VMS.Desafio.Telemedicina.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valte\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +104,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/packages": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -128,6 +126,28 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VMS.Desafio.Telemedicina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d0421fd2a49b8f677526b0bd8f43d0a2a482dbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d7ded0dff8d5d8c33b51fe14df9b073688de430")]
 [assembly: System.Reflection.AssemblyProductAttribute("VMS.Desafio.Telemedicina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VMS.Desafio.Telemedicina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
